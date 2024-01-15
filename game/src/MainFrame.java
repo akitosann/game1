@@ -17,7 +17,6 @@ public class MainFrame extends JFrame{
     protected ScorePanel scorePanel;
     
     private HashMap<String, JPanel> panels = new HashMap<String, JPanel>();
-
     protected Dimension dimension = new Dimension(WIDTH, HEIGHT);
 
 
